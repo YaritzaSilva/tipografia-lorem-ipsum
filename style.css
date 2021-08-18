@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&family=Tenor+Sans&display=swap');
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #333; box-shadow: 0 0 8px 5px black;
+}
+h1
+{
+text-align: center;
+font-size: 48px;
+font-family: 'Tenor Sans', sans-serif;
+color: cornsilk;
+text-decoration: underline;
+}
+h2
+{
+text-align: center;
+font-size: 32px;
+font-family: 'Tenor Sans', sans-serif;
+color: cornsilk;
+}
+h3
+{
+text-align: center;
+font-size: 32px;
+font-family: 'Tenor Sans', sans-serif;
+color: cornsilk;
+}
+h4
+{
+text-align: center;
+font-size: 32px;
+font-family: 'Tenor Sans', sans-serif;
+color: cornsilk;
+}
+p
+{
+text-align: center;
+font-size: 24px;
+font-family: 'Tenali Ramakrishna', sans-serif;
+color: ghostwhite;
+}
+div 
+{
+text-align: center;
+font-size: 24px;
+font-family: 'Tenali Ramakrishna', sans-serif;
+color: ghostwhite;
+}
+
+*
+{
+    color: ghostwhite;
+    text-align: center;
+}
+
+body 
+{
+margin: 10px 20px 30px 40px;
+background-image: linear-gradient(to right, #110a1a, #3f094b);
+}
